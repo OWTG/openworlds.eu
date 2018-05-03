@@ -61,12 +61,12 @@ html, body {
     width: 100px;
     height: auto;
     position: absolute;
-    bottom: 25px;
-    right: 340px;
+    bottom: 20px;
+    right: 350px;
 }
 
-#logo-unity svg {
-    width: 100px;
+#logo-torque svg {
+    width: 110px;
     height: auto;
     position: absolute;
     bottom: 18px;
@@ -77,6 +77,6 @@ html, body {
     width: 150px;
     height: auto;
     position: absolute;
-    bottom: 25px;
+    bottom: 20px;
     right: 20px;
 }
